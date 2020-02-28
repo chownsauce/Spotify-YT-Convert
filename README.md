@@ -14,3 +14,4 @@ To use:
 * "pip install -r requirements.txt"
 * Make sure you have a "client_secret.json" from Google to allow this program to OAUTH to your Google/Youtube account.
 * Run "python secrets.py" to create a "secrets.json" file with your Google API key, as well as Spotify client ID and secret.
+* Lastly, run "python main.py" and follow prompts.

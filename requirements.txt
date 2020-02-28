@@ -5,3 +5,4 @@ requests
 pafy
 tqdm
 spotipy
+joblib
